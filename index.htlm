@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WinGrow Agencies - Programme d’Affiliation</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+        }
+        header {
+            background: #1c1c1c;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            padding: 50px;
+            text-align: center;
+            background: white;
+        }
+        .hero h1 {
+            font-size: 35px;
+            margin-bottom: 15px;
+        }
+        .hero p {
+            font-size: 18px;
+            color: #555;
+        }
+        .cta {
+            text-decoration: none;
+            background: #ff9800;
+            padding: 15px 25px;
+            color: white;
+            border-radius: 6px;
+            font-size: 18px;
+            margin-top: 25px;
+            display: inline-block;
+        }
+        .section {
+            padding: 40px 20px;
+            background: white;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #1c1c1c;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h2>WinGrow Agencies</h2>
+    <p>Le Meilleur Programme d'Affiliation Africain</p>
+</header>
+
+<div class="hero">
+    <h1>Gagnez de l’Argent en Invitant des Affiliés</h1>
+    <p>Partagez votre lien, gagnez des commissions et construisez votre équipe.</p>
+    <a href="#" class="cta">Je veux devenir affilié</a>
+</div>
+
+<div class="section">
+    <h2>Pourquoi WinGrow Agencies ?</h2>
+    <p>✔️ Commissions élevées</p>
+    <p>✔️ Tableau de bord moderne</p>
+    <p>✔️ Programme de parrainage multi-niveaux</p>
+    <p>✔️ Paiements rapides (Mobile Money, PayDunya)</p>
+</div>
+
+<div class="section">
+    <h2>Comment ça marche ?</h2>
+    <p><strong>1.</strong> Vous vous inscrivez</p>
+    <p><strong>2.</strong> Vous recevez un lien d’affiliation</p>
+    <p><strong>3.</strong> Vous invitez vos contacts</p>
+    <p><strong>4.</strong> Vous gagnez des commissions automatiquement</p>
+</div>
+
+<footer>
+    © 2025 WinGrow Agencies — Tous droits réservés
+</footer>
+
+</body>
+</html>
